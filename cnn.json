@@ -1,0 +1,6 @@
+{
+  "dropout_rate": 0.5,
+  "hidden_dim": 10,
+  "kernel_size": 7,
+  "filters": 20
+}

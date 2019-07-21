@@ -1,0 +1,5 @@
+{
+	"dropout_rate":0.4, 
+	"lstm":20, 
+	"dense1": 8
+}
