@@ -1,5 +1,5 @@
 # Hate Speech Recognition
-This repository contains necessary code to train a CNN and RNN for detecting hate speech.
+This repository contains necessary code to train a CNN and RNN for detecting hate speech. Please read the [document](data_mining_report.pdf "Tech report") for detailed descriptions.
 
 ## Introduction
 This project is to build up a data mining system, utilizing natural language processing technnique and deep learning knowledge. Specifically, we 
